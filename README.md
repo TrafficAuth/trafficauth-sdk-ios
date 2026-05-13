@@ -6,15 +6,8 @@
 
 Copyright © OmniTrust Security LLC
 
+`TrafficAuthSDK` is the public iOS SDK module for TrafficAuth enabling messaging signing and validation using security from IEEE 1609.2.
 
-`TrafficAuthSDK` is the public iOS SDK distribution repository for OmniTrust Security.
-
-This repository is the customer-facing entrypoint for:
-
-- Swift Package Manager installation
-- binary SDK delivery
-- release notes
-- published documentation
 
 ## Install
 
@@ -22,6 +15,14 @@ Add the package dependency in Xcode using:
 
 ```text
 https://github.com/TrafficAuth/trafficauth-sdk-ios.git
+```
+
+Can also be installed via Swift Package Manager as such:
+
+```
+dependencies: [
+        .package(url: "https://github.com/TrafficAuth/trafficauth-sdk-ios", from: "1.0.0"),
+    ]
 ```
 
 Then import:
@@ -43,3 +44,11 @@ Expected GitHub Pages URL:
 ```text
 https://trafficauth.github.io/trafficauth-sdk-ios/documentation/trafficauthsdk/
 ```
+
+Additional getting started guidance and end-user workflow documentation can be
+found at [docs.trafficauth.com](https://docs.trafficauth.com/docs/).
+
+## License
+
+This public binary SDK repository is licensed under Apache 2.0. See
+[`LICENSE`](LICENSE) for details.
