@@ -1,5 +1,10 @@
 # TrafficAuthSDK
 
+[![Swift Package Index](https://img.shields.io/badge/Swift_Package_Index-compatible-informational)](https://swiftpackageindex.com/TrafficAuth/trafficauth-sdk-ios)
+
+Copyright © OmniTrust Security LLC
+
+
 `TrafficAuthSDK` is the public iOS SDK distribution repository for OmniTrust Security.
 
 This repository is the customer-facing entrypoint for:
