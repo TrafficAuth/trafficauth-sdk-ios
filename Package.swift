@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "TrafficAuthSDK",
             url: "https://github.com/TrafficAuth/trafficauth-sdk-ios/releases/download/v1.0.8/TrafficAuthSDK.xcframework.zip",
-            checksum: "47c0d0212d7ca1d8d6008354d9b99b06791e1482b56ef07084d0a1c612033660"
+            checksum: "440767cba8d0143e5e77130cb8bc3554f5190b6b0e0f49709c9add1d0a5e1562"
         )
     ]
 )
