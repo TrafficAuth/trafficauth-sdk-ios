@@ -1,7 +1,7 @@
 # TrafficAuthSDK
 
 [![Swift Package Index](https://img.shields.io/badge/Swift_Package_Index-compatible-informational)](https://swiftpackageindex.com/TrafficAuth/trafficauth-sdk-ios)
-![iOS](https://img.shields.io/badge/platform-iOS%2014%2B-blue)
+![iOS](https://img.shields.io/badge/platform-iOS%2017%2B-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.9%2B-orange)
 
 Copyright © OmniTrust Security LLC
