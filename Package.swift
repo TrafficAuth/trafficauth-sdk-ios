@@ -15,13 +15,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "libEncoderLib",
-            url: "https://github.com/TrafficAuth/trafficauth-sdk-ios/releases/download/v1.0.8/libEncoderLib.xcframework.zip",
-            checksum: "8b8a8706117b991d2386f8ec320d60dd9d5fded1081e3b25fbce2ca4cfc8ffad"
+            url: "https://github.com/TrafficAuth/trafficauth-sdk-ios/releases/download/v1.1.0/libEncoderLib.xcframework.zip",
+            checksum: "95aec8750b1f2bb40ddda4f8c68ed20d4849238112ce3720a1a616d10bea1538"
         ),
         .binaryTarget(
             name: "TrafficAuthSDK",
-            url: "https://github.com/TrafficAuth/trafficauth-sdk-ios/releases/download/v1.0.8/TrafficAuthSDK.xcframework.zip",
-            checksum: "440767cba8d0143e5e77130cb8bc3554f5190b6b0e0f49709c9add1d0a5e1562"
+            url: "https://github.com/TrafficAuth/trafficauth-sdk-ios/releases/download/v1.1.0/TrafficAuthSDK.xcframework.zip",
+            checksum: "38f43dc3ef2c92a2bb9ab3c7e89761e1e4208d3955742d29fb5c6a0979fdd82f"
         )
     ]
 )
